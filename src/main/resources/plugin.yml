@@ -1,5 +1,0 @@
-name: ${project.name}
-version: ${full.version}
-author: Coords
-main: us.lemin.kitpvp.KitPvPPlugin
-depend: [Core]
