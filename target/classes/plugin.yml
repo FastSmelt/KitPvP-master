@@ -1,0 +1,5 @@
+name: KitPvP
+version: 1.0.0-04-02-2019
+author: Coords
+main: us.lemin.kitpvp.KitPvPPlugin
+depend: [Core]
