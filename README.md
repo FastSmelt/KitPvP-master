@@ -1,3 +1,3 @@
 # KitPvP
 
-The KitPvP plugin for Lemin.
+The KitPvP plugin for FileRunner.
